@@ -1,1 +1,2 @@
 "Contenido del primer archivo"
+"Esta línea la agrega Emmanuel. Consigna #7"
